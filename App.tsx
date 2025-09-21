@@ -1,16 +1,16 @@
-import { Header } from "./components/Header";
-import { HeroSection } from "./components/HeroSection";
-import { FeaturesSection } from "./components/FeaturesSection";
-import { DiscoverStoriesSection } from "./components/DiscoverStoriesSection";
-import { ShowcaseSection } from "./components/ShowcaseSection";
-import { ArtisanJourneySection } from "./components/ArtisanJourneySection";
-import { TellYourStorySection } from "./components/TellYourStorySection";
-import { PublicProfileSection } from "./components/PublicProfileSection";
-import { AIStorytellingSection } from "./components/AIStorytellingSection";
-import { CulturalHeritageSection } from "./components/CulturalHeritageSection";
-import { CommunityNetworkSection } from "./components/CommunityNetworkSection";
-import { DigitalMarketingSection } from "./components/DigitalMarketingSection";
-import { Footer } from "./components/Footer";
+import { Header } from "./Components/Header";
+import { HeroSection } from "./Components/HeroSection";
+import { FeaturesSection } from "./Components/FeaturesSection";
+import { DiscoverStoriesSection } from "./Components/DiscoverStoriesSection";
+import { ShowcaseSection } from "./Components/ShowcaseSection";
+import { ArtisanJourneySection } from "./Components/ArtisanJourneySection";
+import { TellYourStorySection } from "./Components/TellYourStorySection";
+import { PublicProfileSection } from "./Components/PublicProfileSection";
+import { AIStorytellingSection } from "./Components/AIStorytellingSection";
+import { CulturalHeritageSection } from "./Components/CulturalHeritageSection";
+import { CommunityNetworkSection } from "./Components/CommunityNetworkSection";
+import { DigitalMarketingSection } from "./Components/DigitalMarketingSection";
+import { Footer } from "./Components/Footer";
 
 export default function App() {
   return (
