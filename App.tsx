@@ -11,7 +11,7 @@ import { CulturalHeritageSection } from "./components/CulturalHeritageSection";
 import { CommunityNetworkSection } from "./components/CommunityNetworkSection";
 import { DigitalMarketingSection } from "./components/DigitalMarketingSection";
 import { Footer } from "./components/Footer";
-
+gg
 export default function App() {
   return (
     <div className="min-h-screen bg-background">
